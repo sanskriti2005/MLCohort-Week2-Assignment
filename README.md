@@ -3,7 +3,7 @@ Hey y'all! Welcome to my ML Cohort Week 2 assignment. It can always be better an
 
 **LinearRegression.ipynb**: Just linear regression being done on the score.csv file
 <br>
-**KNN.ipynb**: working on it.
+**KNN.ipynb**: Made sense what exactly K nearest neighbor does on the T Shirt.csv dataset.
 <br>
 <br>
 **Score.csv**: Scores and the corresponding hours of study. Used this dataset to work with a linear regression model
